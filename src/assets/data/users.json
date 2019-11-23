@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ramin",
+            "cardNumber": "10",
+            "cardType": "A"
+        },
+        {
+            "id": 2,
+            "name": "Amin",
+            "cardNumber": "20",
+            "cardType": "B"
+        },
+        {
+            "id": 3,
+            "name": "Mina",
+            "cardNumber": "30",
+            "cardType": "A"
+        },
+        {
+            "id": 4,
+            "name": "Roya",
+            "cardNumber": "40",
+            "cardType": "C"
+        },
+        {
+            "id": 5,
+            "name": "Hadi",
+            "cardNumber": "50",
+            "cardType": "B"
+        }
+    ]
+}
